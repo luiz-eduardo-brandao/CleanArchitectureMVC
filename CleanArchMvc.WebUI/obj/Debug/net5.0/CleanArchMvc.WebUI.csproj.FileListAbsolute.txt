@@ -23,8 +23,6 @@ C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -109,8 +107,6 @@ C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
-C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -406,3 +402,11 @@ C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
