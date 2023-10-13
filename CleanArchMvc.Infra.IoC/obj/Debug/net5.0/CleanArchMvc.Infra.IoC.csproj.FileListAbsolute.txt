@@ -1,6 +1,5 @@
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.deps.json
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
-C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.dll
@@ -20,3 +19,4 @@ C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\n
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.dev.json
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\refint\CleanArchMvc.Infra.IoC.dll

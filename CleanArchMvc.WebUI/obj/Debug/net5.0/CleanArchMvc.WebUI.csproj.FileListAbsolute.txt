@@ -5,7 +5,6 @@ C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.runtimeconfig.json
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.runtimeconfig.dev.json
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.dll
-C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.pdb
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -329,7 +328,6 @@ C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorAssemblyInfo.cache
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorAssemblyInfo.cs
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\CleanArchMvc.WebUI.StaticWebAssets.Manifest.cache
-C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\CleanArchMvc.WebUI.StaticWebAssets.xml
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\scopedcss\bundle\CleanArchMvc.WebUI.styles.css
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.input.cache
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.output.cache
@@ -410,3 +408,9 @@ C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\CleanArchMvc.WebUI.StaticWebAssets.Pack.cache
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\msbuild.CleanArchMvc.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\msbuild.build.CleanArchMvc.WebUI.props
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CleanArchMvc.WebUI.props
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CleanArchMvc.WebUI.props
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\refint\CleanArchMvc.WebUI.dll

@@ -91,14 +91,12 @@ namespace CleanArchMvc.WebUI.Controllers
             return View(productDto);
         }
 
-       
         [HttpPost(), ActionName("Delete")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             await _productService.Remove(id);
             return RedirectToAction(nameof(Index));
         }
-
 
         [HttpGet()]
         public async Task<IActionResult> Details(int? id)

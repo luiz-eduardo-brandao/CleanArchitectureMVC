@@ -1,6 +1,5 @@
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.deps.json
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
-C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Domain.dll
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
@@ -16,3 +15,4 @@ C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.dev.json
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.csproj.CopyComplete
 C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
+C:\edu\courses\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\refint\CleanArchMvc.Infra.Data.dll
